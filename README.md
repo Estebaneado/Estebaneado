@@ -46,26 +46,127 @@ IT Operations professional with a Software Development background *(Technologist
 </div>
 
 <br>
-
 ### `02 // TECHNICAL STACK`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,windows,docker,kubernetes,mysql,bash,git,ts,nginx&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=linux,windows,docker,kubernetes,bash,git,github,nginx,html,css,javascript,typescript&theme=dark&perline=12" />
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/LINUX-0A0A0F?style=flat-square&logo=linux&logoColor=00E5FF&labelColor=0A0A0F&color=00E5FF" />
-<img src="https://img.shields.io/badge/WINDOWS-0A0A0F?style=flat-square&logo=windows&logoColor=00E5FF&labelColor=0A0A0F&color=00E5FF" />
-<img src="https://img.shields.io/badge/DOCKER-0A0A0F?style=flat-square&logo=docker&logoColor=00E5FF&labelColor=0A0A0F&color=00E5FF" />
-<img src="https://img.shields.io/badge/KUBERNETES-0A0A0F?style=flat-square&logo=kubernetes&logoColor=FF007F&labelColor=0A0A0F&color=FF007F" />
-<img src="https://img.shields.io/badge/MYSQL-0A0A0F?style=flat-square&logo=mysql&logoColor=00E5FF&labelColor=0A0A0F&color=00E5FF" />
-<img src="https://img.shields.io/badge/BASH-0A0A0F?style=flat-square&logo=gnubash&logoColor=FF007F&labelColor=0A0A0F&color=FF007F" />
-<img src="https://img.shields.io/badge/GIT-0A0A0F?style=flat-square&logo=git&logoColor=FF007F&labelColor=0A0A0F&color=FF007F" />
-<img src="https://img.shields.io/badge/TYPESCRIPT-0A0A0F?style=flat-square&logo=typescript&logoColor=00E5FF&labelColor=0A0A0F&color=00E5FF" />
-<img src="https://img.shields.io/badge/NGINX-0A0A0F?style=flat-square&logo=nginx&logoColor=00E5FF&labelColor=0A0A0F&color=00E5FF" />
-
+<img src="https://skillicons.dev/icons?i=react,bootstrap,php,laravel,mysql,postgresql,sqlite,python,java,vscode,postman,figma&theme=dark&perline=12" />
 </div>
+
+<br>
+
+<table width="100%">
+<tr>
+<th align="left" width="25%">`CATEGORY`</th>
+<th align="left">`SKILLS`</th>
+</tr>
+
+<tr>
+<td><b>Systems</b></td>
+<td>Linux · Windows</td>
+</tr>
+
+<tr>
+<td><b>Databases</b></td>
+<td>SQL · MySQL · Oracle</td>
+</tr>
+
+<tr>
+<td><b>Networking</b></td>
+<td>TCP/IP · DNS · HTTP · Network Troubleshooting</td>
+</tr>
+
+<tr>
+<td><b>Containers</b></td>
+<td>Docker · Kubernetes</td>
+</tr>
+
+<tr>
+<td><b>Scripting</b></td>
+<td>Bash · TypeScript</td>
+</tr>
+
+<tr>
+<td><b>Version Control</b></td>
+<td>Git</td>
+</tr>
+
+<tr>
+<td><b>Operations</b></td>
+<td>Incident Investigation · Log Analysis · Troubleshooting · Root Cause Documentation</td>
+</tr>
+
+<tr>
+<td><b>Support & QA</b></td>
+<td>Technical Support · Application Support · System Administration · Software QA Validation · Data Reconciliation</td>
+</tr>
+
+<tr>
+<td><b>Process</b></td>
+<td>Preventive Maintenance · Software Deployment · Operational Reporting</td>
+</tr>
+
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<th align="left" width="25%">`CATEGORY`</th>
+<th align="left">`SKILLS`</th>
+</tr>
+
+<tr>
+<td><b>Systems</b></td>
+<td>Linux · Windows</td>
+</tr>
+
+<tr>
+<td><b>Databases</b></td>
+<td>SQL · MySQL · Oracle</td>
+</tr>
+
+<tr>
+<td><b>Networking</b></td>
+<td>TCP/IP · DNS · HTTP · Network Troubleshooting</td>
+</tr>
+
+<tr>
+<td><b>Containers</b></td>
+<td>Docker · Kubernetes</td>
+</tr>
+
+<tr>
+<td><b>Scripting</b></td>
+<td>Bash · TypeScript</td>
+</tr>
+
+<tr>
+<td><b>Version Control</b></td>
+<td>Git</td>
+</tr>
+
+<tr>
+<td><b>Operations</b></td>
+<td>Incident Investigation · Log Analysis · Troubleshooting · Root Cause Documentation</td>
+</tr>
+
+<tr>
+<td><b>Support & QA</b></td>
+<td>Technical Support · Application Support · System Administration · Software QA Validation · Data Reconciliation</td>
+</tr>
+
+<tr>
+<td><b>Process</b></td>
+<td>Preventive Maintenance · Software Deployment · Operational Reporting</td>
+</tr>
+
+</table>
+
 
 <br>
 
