@@ -20,17 +20,6 @@
 
 <br>
 
-```bash
-$ whoami
-esteban_giraldo :: it_operations / linux / technical_support
-
-$ cat mission.log
-> support production systems, resolve incidents, document root causes
-> currently compiling: cloud_ops.pkg, automation.pkg, reliability.pkg
-```
-
-<br>
-
 ### About
 
 > IT Operations professional with a Software Development background *(Technologist in Analysis and Software Development — SENA)*. Experience supporting production systems on Linux, validating data through SQL, and investigating operational incidents to identify and document root causes.
