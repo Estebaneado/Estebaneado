@@ -46,7 +46,11 @@ IT Operations professional with a Software Development background *(Technologist
 </div>
 
 <br>
+
 ### `02 // TECHNICAL STACK`
+
+<br>
+
 
 <div align="center">
 
