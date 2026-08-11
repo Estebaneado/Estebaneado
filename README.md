@@ -24,8 +24,6 @@
 
 > IT Operations professional with a Software Development background *(Technologist in Analysis and Software Development — SENA)*. Experience supporting production systems on Linux, validating data through SQL, and investigating operational incidents to identify and document root causes.
 >
-> Currently expanding into cloud operations, automation, and reliability engineering — with a particular interest in batch processing and 24×7 operational environments.
-
 <br>
 
 ### Technical Stack
@@ -39,10 +37,10 @@
 <table width="100%">
 <tr><th align="left" width="22%">Category</th><th align="left">Skills</th></tr>
 <tr><td><b>Systems</b></td><td>Linux · Windows</td></tr>
-<tr><td><b>Databases</b></td><td>SQL · MySQL · Oracle <sub>(query execution)</sub></td></tr>
+<tr><td><b>Databases</b></td><td>SQL · MySQL · Oracle</td></tr>
 <tr><td><b>Networking</b></td><td>TCP/IP · DNS · HTTP · Network Troubleshooting</td></tr>
-<tr><td><b>Containers</b></td><td>Docker <sub>(fundamentals)</sub> · Kubernetes <sub>(fundamentals)</sub></td></tr>
-<tr><td><b>Scripting</b></td><td>Bash <sub>(working knowledge)</sub> · TypeScript</td></tr>
+<tr><td><b>Containers</b></td><td>Docker · Kubernetes</td></tr>
+<tr><td><b>Scripting</b></td><td>Bash · TypeScript</td></tr>
 <tr><td><b>Version Control</b></td><td>Git</td></tr>
 <tr><td><b>Operations</b></td><td>Incident Investigation · Log Analysis · Troubleshooting · Root Cause Documentation</td></tr>
 <tr><td><b>Support & QA</b></td><td>Technical Support · Application Support · System Administration · Software QA Validation · Data Reconciliation</td></tr>
@@ -52,8 +50,6 @@
 <br>
 
 ### Software & Systems Foundations
-
-<sub><i>Concepts and fundamentals covered through formal training (SENA — Technologist in Analysis and Software Development) and ongoing self-study.</i></sub>
 
 <table width="100%">
 <tr><td width="30%">Programming Logic & Algorithms</td><td>Data structures, control flow, problem-solving through code</td></tr>
